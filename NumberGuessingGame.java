@@ -1,4 +1,4 @@
-//!!InfoByte Internship Task-2(Number Guessing Game), done by Manikanth!!//
+//!!Oasis InfoByte Internship Task-2(Number Guessing Game), done by Manikanth!!//
 import java.util.Random;
 import java.util.Scanner;
 class NumberGuessingGame{
@@ -24,4 +24,4 @@ System.out.println("**GOT IT**");
 while (N!= R);
 System.out.println("SCORED POINTS" + score);
 }}
-//!!InfoByte Internship Task-2(Number Guessing Game), done by Manikanth!!//
+//!!Oasis InfoByte Internship Task-2(Number Guessing Game), done by Manikanth!!//
